@@ -82,6 +82,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		20EB61712BEA297B00CCF9C1 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = ../../../YYText/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		20EB61722BEA298300CCF9C1 /* YYText.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; name = YYText.podspec; path = ../../../YYText.podspec; sourceTree = "<group>"; };
 		D910547B1F3735D20007F224 /* Animated image support.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Animated image support.txt"; sourceTree = "<group>"; };
 		D910547C1F3735D20007F224 /* YYAnimatedImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYAnimatedImageView.h; sourceTree = "<group>"; };
 		D910547D1F3735D20007F224 /* YYAnimatedImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYAnimatedImageView.m; sourceTree = "<group>"; };
@@ -236,6 +238,8 @@
 		D910547A1F3735D20007F224 /* YYImage */ = {
 			isa = PBXGroup;
 			children = (
+				20EB61722BEA298300CCF9C1 /* YYText.podspec */,
+				20EB61712BEA297B00CCF9C1 /* PrivacyInfo.xcprivacy */,
 				D910547B1F3735D20007F224 /* Animated image support.txt */,
 				D910547C1F3735D20007F224 /* YYAnimatedImageView.h */,
 				D910547D1F3735D20007F224 /* YYAnimatedImageView.m */,
